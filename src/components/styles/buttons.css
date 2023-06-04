@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: bisque;
+}
+
+.container {
+    background-color: rgb(124, 84, 34);
+    height: 0
+}
+
+.button {
+    background-color: #d896b7;
+    height: 50px;
+    flex-grow: 1;  
+    flex: 1;
+}
+
+.buttonlong {
+    background-color: purple;
+    height: 50px;
+    width: 50px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
